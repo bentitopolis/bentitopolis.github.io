@@ -1,0 +1,1 @@
+<meta name="go-import" content="bentitopolis.github.com/v1 git https://github.com/operator-framework/operator-metering/pkg/apis/metering/v1">

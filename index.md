@@ -1,1 +1,1 @@
-Hosting generated vanity site for something.
+Hosting generated vanity site for something..

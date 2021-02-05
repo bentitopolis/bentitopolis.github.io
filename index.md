@@ -30,6 +30,8 @@ graph TD
 ```
 run as: `mermaid_maker mermaid_test` and have it render the graph!
 
+<img src="images/mermaid_test.png" alt="mermaid test graph" class="inline"/>
+
 If docker pull already <5 sec to render, if docker pull needed, like 25 second on first usage.
 
 

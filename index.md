@@ -4,7 +4,7 @@
 
 ## Kubernetes (k8s)
 
-## Docker as a Command
+## Docker Image as a Command
 
 Mermaid has a docker image that is meant to run the app with no install, so I wrapped it with this zsh function:
 ```bash
@@ -28,6 +28,8 @@ graph TD
    CB -.-> EB(v0.0.6 \n fa:fa-tag 4.6)
    end
 ```
+[code for graph credit to: Camila Macedo at redhat.com]
+
 run as: `mermaid_maker mermaid_test` and have it render the graph!
 
 <img src="images/mermaid_test.png" alt="mermaid test graph" class="inline"/>
